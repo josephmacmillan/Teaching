@@ -1,0 +1,153 @@
+body, div, h1, h2, h3, h4, h5, u1, p, img {margin: 0px; padding: 0px; }
+
+body { 
+	font-family: Arial, Helvetica, sans-serif; 
+	background: #FFFFFF;
+}
+
+.container {
+	width: 700px;
+	margin: 0 auto;
+}
+
+#main {
+	background: url(images/header.png) repeat-x;
+	height: 279px;
+}
+
+#title {
+	padding-top: 25px;
+	float: left;
+	padding-right: 30px;
+}
+
+#content {
+	padding-top: 60px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+#header {
+	padding-top: 32px;
+}
+
+.imagestyle1 {
+	position: relative; top: -11px; 
+}
+
+u1#menu {
+	text-align:right;
+	list-style: none;
+}
+
+u1#menu li a {
+	font-size: 25px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+u1#menu li {
+	float: right;
+	padding-left: 50px;
+}
+
+#title h1 {
+	color: #FFFFFF;
+	font-size:48px;
+}
+
+#tagline {
+	padding-top: 125px;
+	padding-right: 10px;
+}
+
+#tagline h3 {
+	color: #c4c4c4;
+}
+
+h2 {
+	font-size: 32px;
+	color: #4f4f4f;
+}
+
+h3 {
+	color:#707070
+}
+
+#content h5 {
+	font-size: 16px;
+	color: #000000;
+	text-decoration: none;
+	font-weight: 650;
+}
+	
+#content #about {
+		padding-bottom: 30px;
+}
+
+#content h2 {
+	padding-bottom: 10px;
+}
+
+#content h5 {
+	text-indent: 10px;
+}
+	
+#content p {
+	padding-top: 10px;
+}	
+	
+#content #contact {
+		padding-top: 30px;
+		padding-bottom: 500px;
+}
+	
+#list  {
+	padding-top: 90px;
+	padding-bottom: 50px;
+}
+
+#list h3 {
+	color:#FF0000;
+}
+
+#list h5 {
+	padding-top:30px;
+	padding-bottom:90px;
+}
+
+#list h7 {
+	font-size: 14px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+	
+u1#categories {
+	list-style: none;
+}
+
+u1#categories li a {
+	padding-left: 30px;
+	font-size: 28px;
+	color: #000000;
+}
+
+u1#categories li {
+	padding-top: 5px;
+}
+
+h4 {
+	padding-top: 30px;
+	text-align: center;
+	font-size: 32px;
+	color: #4f4f4f;
+	padding-bottom: 30px;
+}
+
+h4 p {
+	padding-top: 5px;
+}
+
+h4 a {
+	padding-right: 5px;
+}
